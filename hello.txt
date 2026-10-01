@@ -1,3 +1,4 @@
 Welcomes to Git
 Welcomes to GitHub
-GitHub Created sucessfully
+GitHub Created successfully
+Messages are putting in the GitHub
